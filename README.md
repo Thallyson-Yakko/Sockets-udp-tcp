@@ -39,7 +39,7 @@ Módulo socket padrão (incluso na instalação do Python)
 
 ## Projeto proposto pelo professor:
 
-Pedro Filho
+Pedro Filho - IFPB
 
 ## Material de pesquisa:
 1. Dr. M. O. Faruque Sarker. Python Network Programming Cookbook. March 2014. Link: https://subscription.packtpub.com/book/networking_and_servers/9781849513463
