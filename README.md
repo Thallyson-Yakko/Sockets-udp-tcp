@@ -30,7 +30,8 @@ Exemplo de Funcionamento
 
 Ao enviar uma mensagem "Olá servidor!" via TCP, o cliente deve receber e exibir a resposta "TCP: Olá servidor!".
 Ao enviar uma mensagem "Ping" via UDP, o cliente deve receber e exibir a resposta "UDP: Ping".
-Requisitos
+```
+## Requisitos
 
 Python 3.12.1
 Módulo socket padrão (incluso na instalação do Python)
